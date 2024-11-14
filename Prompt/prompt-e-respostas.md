@@ -329,7 +329,7 @@ A cada 4 semanas:
 
 Este programa aproveita a tendência natural do mesomorfo para ganhos musculares e força, enquanto mantém um nível adequado de condicionamento através dos circuitos funcionais.
 
-*** Prompt mais elaborado com alterações sugeridas
+# Prompt mais elaborado com alterações sugeridas
 
 # Contexto
 
